@@ -53,7 +53,6 @@ p {
 
 .container section p {
     clear: both;
-    margin-top: 25px;
 }
 
 
@@ -164,8 +163,8 @@ main section {
     text-align: justify;
 }
 
-#expertises h2 {
-    margin-bottom: 50px;
+main h2 {
+    margin-bottom: 30px;
 }
 
 #expertises .progress {
@@ -178,10 +177,18 @@ main section {
     color: white;
 }
 
+#experiences h3 {
+    font-size: 1.3em;
+}
+
 #experiences p:nth-child(2n+1) {
     display: inline-block;
     float: right;
     color: rgba(151, 170, 195, 1);
+}
+
+#experiences p:nth-of-type(3n-2) {
+color: rgba(151, 170, 195, 1);
 }
 #experiences p:nth-of-type(3n+1) {
     display: inline-block;
