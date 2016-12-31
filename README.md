@@ -3,6 +3,7 @@
 ##Langages utilisés :
 * HTML
 * CSS / Bootstrap
+* testé sous Chrome
 
 ##Reste à faire :
 * Nettoyer le CSS
