@@ -1,8 +1,8 @@
 #Exercice CV sur une seule page
 
-##Langages utilisés :
-* HTML
-* CSS / Bootstrap
+##Infos :
+* HTML / CSS / Bootstrap
+* codé sous Brackets
 * testé sous Chrome
 
 ##Reste à faire :
